@@ -1,0 +1,17 @@
+Dorothy as a starting point for a simple rails blog.
+
+currently hosted at: http://servedrails.heroku.com
+
+Michael Eilen 
+michael@servedweb.com
+
+Future:
+
+I'd like to perhaps change the text files into database that allows user entry.
+	Also add users with passwords for access to posting.
+
+
+dorothy
+=======
+
+A wonderful template for [toto](http://cloudhead.io/toto), the blogging engine.
