@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="alternate" type="application/atom+xml" title="<%= title %> - feed" href="/index.xml" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+    <title>ServedWeb.com - Ruby on Rails Blog</title>  
+</head>
+<a href="http://servedrails.heroku.com"><img src="http://www.servedweb.com/wp-content/uploads/served.jpg"></a>
+	<p align ="right"><i><b>rails blog @ servedrails.heroku.com</b></i></p>
+	<br>
+	<body>
+    <section>
+      <%= yield %> 
+    </section>
+<br>
+    <footer>
+     <b><a href="http://servedrails.heroku.com">Front Page</a> | <a href="http://www.servedweb.com">ServedWeb.com</a>
+		 <p align="right">powered by <a href="http://cloudhead.io/toto">toto</a> and<a href="http://www.servedweb.com"> servedweb.com</a></p></b>
+    </footer>
+  </body>
+</html>
+
