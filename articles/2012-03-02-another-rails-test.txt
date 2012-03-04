@@ -1,6 +1,6 @@
 ---
 title: Another Rails Test
-author: Michael G. Eilen
+author: Michael Eilen
 date: 02/03/2012
 
 A blog to experiment with Ruby on Rails and the Heroku servers.~

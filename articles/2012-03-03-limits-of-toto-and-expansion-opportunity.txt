@@ -1,0 +1,13 @@
+---
+title: Limits of Toto and Expansion Opportunity
+author: Michael Eilen
+date: 03/03/2012
+
+The rake feature provides field for title input.  It then creates text-file based on the date of command execution, and the title entered at the input screen.  To make more functional, I am adding. ~
+<p>  
+
+1. Provide field for author<br>
+2. Provide field for article text.<br>
+3. Link author to authors e-mail address by default.<br>
+4. Auto upload new txt files to Heroku?
+
